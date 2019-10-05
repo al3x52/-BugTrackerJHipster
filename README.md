@@ -1,10 +1,10 @@
-https://oauth2:QjkWFuRRHjzkGaboVx54@gitlab.com/alexandre.jack/bugtrackerjhipster.git
-
 # BugTrackerJHipster
 
 This application was generated using JHipster 6.3.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.3.1](https://www.jhipster.tech/documentation-archive/v6.3.1).
 
-npm install -g generator-jhipster
+[![Build Status](https://travis-ci.org/al3x52/BugTrackerJHipster.svg?branch=master)](https://travis-ci.org/al3x52/BugTrackerJHipster)
+
+    npm install -g generator-jhipster
 
 ## Development
 
